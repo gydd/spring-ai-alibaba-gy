@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-ai-alibaba-graph-studio
+
+  ai:
+    dashscope:
+#      api-key: ${AI_DASH_SCOPE_API_KEY}
+      api-key: sk-cd7e0fa46ead4768800a08784f42fa9f
+server:
+  port: 8080
