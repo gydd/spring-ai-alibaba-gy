@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "spring.ai.alibaba.plugin.dingtalk",
+      "type": "com.alibaba.cloud.ai.plugin.dingtalk.DingTalkProperties",
+      "sourceType": "com.alibaba.cloud.ai.plugin.dingtalk.DingTalkProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.ai.alibaba.plugin.dingtalk.custom-robot-access-token",
+      "type": "java.lang.String",
+      "sourceType": "com.alibaba.cloud.ai.plugin.dingtalk.DingTalkProperties"
+    },
+    {
+      "name": "spring.ai.alibaba.plugin.dingtalk.custom-robot-signature",
+      "type": "java.lang.String",
+      "sourceType": "com.alibaba.cloud.ai.plugin.dingtalk.DingTalkProperties"
+    }
+  ],
+  "hints": []
+}

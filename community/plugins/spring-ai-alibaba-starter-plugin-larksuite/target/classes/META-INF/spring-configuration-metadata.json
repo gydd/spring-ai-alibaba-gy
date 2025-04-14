@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "spring.ai.alibaba.plugin.larksuite",
+      "type": "com.alibaba.cloud.ai.plugin.larksuite.LarkSuiteProperties",
+      "sourceType": "com.alibaba.cloud.ai.plugin.larksuite.LarkSuiteProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.ai.alibaba.plugin.larksuite.app-id",
+      "type": "java.lang.String",
+      "description": "AppId",
+      "sourceType": "com.alibaba.cloud.ai.plugin.larksuite.LarkSuiteProperties"
+    },
+    {
+      "name": "spring.ai.alibaba.plugin.larksuite.app-secret",
+      "type": "java.lang.String",
+      "description": "AppSecret",
+      "sourceType": "com.alibaba.cloud.ai.plugin.larksuite.LarkSuiteProperties"
+    }
+  ],
+  "hints": []
+}

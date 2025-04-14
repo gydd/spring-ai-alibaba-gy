@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.ai.alibaba.plugin.bing",
+      "type": "com.alibaba.cloud.ai.plugin.bing.BingSearchProperties",
+      "sourceType": "com.alibaba.cloud.ai.plugin.bing.BingSearchProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.ai.alibaba.plugin.bing.token",
+      "type": "java.lang.String",
+      "sourceType": "com.alibaba.cloud.ai.plugin.bing.BingSearchProperties"
+    }
+  ],
+  "hints": []
+}

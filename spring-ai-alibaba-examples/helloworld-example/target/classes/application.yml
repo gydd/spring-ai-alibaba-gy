@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: helloworld-example
+
+  ai:
+    dashscope:
+      api-key: rr
+#      api-key: ${AI_DASHSCOPE_API_KEY}

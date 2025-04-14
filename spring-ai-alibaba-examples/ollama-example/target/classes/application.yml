@@ -1,0 +1,13 @@
+server:
+  port: 8090
+spring:
+  application:
+    name: ollama-example
+  ai:
+    ollama:
+      base-url: http://127.0.0.1:11434
+      chat:
+        options:
+#          model: llama3.2:latest
+          model: deepseek-r1:8b
+          temperature: 0.4F
